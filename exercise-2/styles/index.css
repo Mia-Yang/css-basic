@@ -71,8 +71,8 @@ p::first-line {
     font-style: italic;
 }
 
-a:hover {
-    text-decoration: underline;
-    text-decoration-color: blueviolet ;
+.caption a:hover {
+    color: purple;
+    text-decoration: none;
 }
 
